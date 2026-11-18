@@ -1,0 +1,27 @@
+{
+  "selected_model": "RandomForest",
+  "metrics": [
+    {
+      "model": "LogisticRegression",
+      "accuracy": 0.7657142857142857,
+      "precision": 0.8991596638655462,
+      "recall": 0.7867647058823529,
+      "f1_score": 0.8392156862745098,
+      "tn": 27,
+      "fp": 12,
+      "fn": 29,
+      "tp": 107
+    },
+    {
+      "model": "RandomForest",
+      "accuracy": 0.7714285714285715,
+      "precision": 0.8692307692307693,
+      "recall": 0.8308823529411765,
+      "f1_score": 0.849624060150376,
+      "tn": 22,
+      "fp": 17,
+      "fn": 23,
+      "tp": 113
+    }
+  ]
+}

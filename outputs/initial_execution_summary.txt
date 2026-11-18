@@ -1,0 +1,11 @@
+Generated artifact build (seeded synthetic data)
+Rows per version: 350
+V1 jam prevalence: 0.700
+V2 jam prevalence: 0.857
+Selected model: RandomForest
+
+             model  accuracy  precision   recall  f1_score  tn  fp  fn  tp
+      RandomForest  0.822857   0.847682 0.941176  0.891986  16  23   8 128
+LogisticRegression  0.765714   0.899160 0.786765  0.839216  27  12  29 107
+
+Note: This local artifact-generation run does not represent a GitHub Actions run or MLflow registry run.

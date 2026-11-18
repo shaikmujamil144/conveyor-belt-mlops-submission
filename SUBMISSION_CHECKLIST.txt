@@ -1,0 +1,11 @@
+BEFORE SUBMITTING:
+[ ] Replace student name, register number and college on the PDF cover.
+[ ] Run all commands in README.md on your own computer.
+[ ] Confirm pytest passes locally.
+[ ] Open MLflow UI and capture your actual experiment + registered model screenshots.
+[ ] Push the project to your own GitHub repository.
+[ ] Open GitHub Actions and capture the actual successful workflow run.
+[ ] Run FastAPI and capture /health and /predict output screenshots.
+[ ] Add the screenshots to your report and regenerate/export the final PDF if needed.
+[ ] Verify every required file is in the GitHub repository.
+[ ] Submit your GitHub repository URL to the faculty form.

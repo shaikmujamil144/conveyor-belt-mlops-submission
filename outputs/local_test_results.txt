@@ -1,0 +1,5 @@
+Local automated test result during package preparation:
+Command: python -m pytest -q
+Result: 3 passed
+
+This is a local test run in the package-generation environment. It is not a GitHub Actions hosted run.
